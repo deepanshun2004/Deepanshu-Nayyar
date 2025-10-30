@@ -35,7 +35,7 @@
 | 💬 **Streamify Chat App** | Real-time chat application supporting instant messaging & group chats | Node.js, Express, Socket.io |
 | 🐾 **Adopt-A-Pet Website** | A responsive pet adoption website with a MongoDB database | Express.js, MongoDB, EJS |
 
-> 🔗 Explore more in my [Repositories »](https://github.com/DeepanshuNayyar?tab=repositories)
+> 🔗 Explore more in my Repositories
 
 ---
 
