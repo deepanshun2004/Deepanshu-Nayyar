@@ -53,7 +53,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DeepanshuNayyar&theme=react-dark" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepanshun2004&theme=react-dark" alt="GitHub Activity Graph"/>
 </p>
 
 ---
